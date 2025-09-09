@@ -9,25 +9,25 @@ I build scalable, reliable, and cost-efficient cloud infrastructure while enabli
 
 ## Core Expertise
 
-- **Cloud Platforms (AWS | Azure | GCP)
+- **Cloud Platforms (AWS | Azure | GCP)**
   Designing, deploying, and managing workloads across multi-cloud environments
 
-- **Containerization & Orchestration
+- **Containerization & Orchestration**
   Docker and Kubernetes for highly available, fault-tolerant systems
 
-- **Infrastructure as Code (IaC)
+- **Infrastructure as Code (IaC)**
   Terraform & Ansible for automated, repeatable provisioning and configuration
 
-- **CI/CD & Automation
+- **CI/CD & Automation**
   GitHub Actions, GitLab CI, Jenkins — reducing deployment friction and failures
 
-- **Monitoring & Observability
+- **Monitoring & Observability**
   AWS CloudWatch for real-time visibility and proactive incident response
 
-- **Security & Compliance
+- **Security & Compliance**
   Cloud security best practices, access management, and automated vulnerability scans
 
-- **Technical Training & Mentorship
+- **Technical Training & Mentorship**
   Trained 80+ professionals who are now AWS Cloud Engineers — delivering workshops on DevOps, Bash scripting, Docker, Kubernetes, Ansible, Terraform, AWS, and more
 ---
 
