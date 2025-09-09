@@ -28,7 +28,7 @@ I build scalable, reliable, and cost-efficient cloud infrastructure while enabli
   Cloud security best practices, access management, and automated vulnerability scans
 
 - **Technical Training & Mentorship**
-  Trained 80+ professionals who are now AWS Cloud Engineers — delivering workshops on DevOps, Bash scripting, Docker, Kubernetes, Ansible, Terraform, AWS, and more
+Trained 80+ professionals who are now AWS Cloud Engineers — delivering workshops on DevOps, Bash scripting, Docker, Kubernetes, Ansible, Terraform, AWS, and more
 ---
 
 ## Recent Achievements
