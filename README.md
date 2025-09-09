@@ -58,8 +58,8 @@ I’m passionate about automation, cost optimization, and teaching complex tools
 
 ## Portfolio & Code
 
-- [Website](http://luabikoye.com)
-- [Academy] (http://www.aledoyacademy.com)
+- [My Website](http://luabikoye.com) - Whoami
+- [My Academy](http://www.aledoyacademy.com) - Wnat to begin a Tech Career?
 - [GitHub](https://github.com/Luabikoye) — Projects, Infrastructure Code & Labs
 
 
@@ -69,4 +69,4 @@ I’m passionate about automation, cost optimization, and teaching complex tools
 
 #### Training Link Below 👇👇
 
-## [Youtube](https://youtube.com/@LearnAWSwithLu) — Free Trainings & Videos
+## [Youtube](https://youtube.com/@LearnAWSwithLu) — Learn AWS with Lu
