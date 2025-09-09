@@ -9,9 +9,6 @@ I build scalable, reliable, and cost-efficient cloud infrastructure while enabli
 
 ## Core Expertise
 
-- **Kubernetes**
-Deploying, scaling, and troubleshooting complex containerized environments
-
 - **Cloud Platforms (AWS | Azure | GCP)**
   Designing, deploying, and managing workloads across multi-cloud environments
 
